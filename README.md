@@ -1,1 +1,1 @@
-![img_1.png](docs/Ysocial.png)
+![img_1.png](Ysocial.png)
