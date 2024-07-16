@@ -10,26 +10,26 @@
     
 **System**
 
-- [YServer](#)
-- [YClient](#)
+[YServer](#)
+[YClient](#)
     
 </td><td valign="top">
 <img width="250" height="1" />
     
 **Scenarios**
 
-- [Recipes](#)
+[Recipes](#)
     
 </td><td valign="top">
 <img width="250" height="1" />
     
 **Documentation / Notes**
     
-- [Website](#)
+[Website](#)
     
 **Publications**
 
-- [Preprints](#)
+[Preprints](#)
     
 </td></tr></tbody></table>
   
