@@ -17,9 +17,11 @@ Join us to explore, innovate, and revolutionize social media understanding.
 
 🗺️ [Get Started](#) | 📔 [Tutorial](#) | 🖥️ [Docker](#) | 📧 [Contact Us](#)
 
+*YSocial – Where the Digital World Comes to Life*
+
 </div>
 
-YSocial – Where the Digital World Comes to Life
+
 
 <div align="center">
  
