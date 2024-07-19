@@ -28,7 +28,7 @@ Join us to explore, innovate, and revolutionize social media understanding.
  
 </div>
 
-<table>
+<table style="border: 0;">
 <tr>
  <td><img  src="https://github.com/YSocialTwin/.github-private/blob/main/us/giulio_rossetti.png"> </td>
  <td><img src="https://github.com/YSocialTwin/.github-private/blob/main/us/massimo_stella.png"></td>
