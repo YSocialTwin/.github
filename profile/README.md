@@ -29,8 +29,8 @@ Join us to explore, innovate, and revolutionize social media understanding.
     
 **System**
 
-[YServer](https://github.com/YSocialTwin/YServer)
-[YClient](https://github.com/YSocialTwin/YClient)
+🖥️ [YServer](https://github.com/YSocialTwin/YServer) <br>
+💻 [YClient](https://github.com/YSocialTwin/YClient)
     
 </td><td valign="top">
 <img width="250" height="1" />
@@ -44,11 +44,11 @@ Join us to explore, innovate, and revolutionize social media understanding.
     
 **Documentation / Notes**
     
-[Website](http://YSocialTwin.github.io)
+🤖 [Website](http://YSocialTwin.github.io)
     
 **Publications**
 
-[Preprints](#)
+📕 [Preprints](#)
     
 </td></tr></tbody></table>
   
