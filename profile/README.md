@@ -30,15 +30,15 @@ Join us to explore, innovate, and revolutionize social media understanding.
 
 <table>
 <tr>
- <td> ![Giulio](./us/giulio_rossetti.png) </td>
- <td><img src="./us/massimo_stella.png"></td>
- <td><img src="./us/remy_cazabet.png"></td>
- <td><img src="./us/katherine_abramski.png"></td>
-  <td><img src="./us/erica_cau.png"></td>
- <td><img src="./us/salvatore_citraro.png"></td>
- <td><img src="/blob/main/us/andrea_failla.png"></td>
- <td><img src="./us/virginia_morini.png"></td>
- <td><img src="./us/valentina_pansanella.png"></td>
+ <td><img  src="https://github.com/YSocialTwin/.github-private/blob/main/us/giulio_rossetti.png"> </td>
+ <td><img src="https://github.com/YSocialTwin/.github-private/blob/main/us/massimo_stella.png"></td>
+ <td><img src="https://github.com/YSocialTwin/.github-private/blob/main/us/remy_cazabet.png"></td>
+ <td><img src="https://github.com/YSocialTwin/.github-private/blob/main/us/katherine_abramski.png"></td>
+  <td><img src="https://github.com/YSocialTwin/.github-private/blob/main/us/erica_cau.png"></td>
+ <td><img src="https://github.com/YSocialTwin/.github-private/blob/main/us/salvatore_citraro.png"></td>
+ <td><img src="https://github.com/YSocialTwin/.github-private/blob/main/us/andrea_failla.png"></td>
+ <td><img src="https://github.com/YSocialTwin/.github-private/blob/main/us/virginia_morini.png"></td>
+ <td><img src="https://github.com/YSocialTwin/.github-private/blob/main/us/valentina_pansanella.png"></td>
 </tr>
  
 </table>
