@@ -15,8 +15,7 @@ Join us to explore, innovate, and revolutionize social media understanding.
 
 <div align="center">
 
-🗺️ [Get Started](#) | 📔 [Tutorial](#) | 🖥️ [Docker](#) | 📧 [Contact Us](#)
-
+![landscape](landscape.png)
 *YSocial – Where the Digital World Comes to Life*
 
 </div>
@@ -30,22 +29,22 @@ Join us to explore, innovate, and revolutionize social media understanding.
     
 **System**
 
-[YServer](#)
-[YClient](#)
+[YServer](https://github.com/YSocialTwin/YServer)
+[YClient](https://github.com/YSocialTwin/YClient)
     
 </td><td valign="top">
 <img width="250" height="1" />
     
 **Scenarios**
 
-[Recipes](#)
+[Recipes](https://github.com/YSocialTwin/Scenario_recipes)
     
 </td><td valign="top">
 <img width="250" height="1" />
     
 **Documentation / Notes**
     
-[Website](#)
+[Website](http://YSocialTwin.github.io)
     
 **Publications**
 
