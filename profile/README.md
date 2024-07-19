@@ -36,7 +36,7 @@ Join us to explore, innovate, and revolutionize social media understanding.
  <td><img src="./us/katherine_abramski.png"></td>
   <td><img src="./us/erica_cau.png"></td>
  <td><img src="./us/salvatore_citraro.png"></td>
- <td><img src="./us/andrea_failla.png"></td>
+ <td><img src="/blob/main/us/andrea_failla.png"></td>
  <td><img src="./us/virginia_morini.png"></td>
  <td><img src="./us/valentina_pansanella.png"></td>
 </tr>
