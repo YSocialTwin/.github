@@ -23,5 +23,7 @@ Join us to explore, innovate, and revolutionize social media understanding.
 
 
 <div align="center">
-🤖 [Website](http://YSocialTwin.github.io) | 🖥️ [YServer](https://github.com/YSocialTwin/YServer) | 💻 [YClient](https://github.com/YSocialTwin/YClient) | 📙 [Recipes](https://github.com/YSocialTwin/Scenario_recipes) | 📕 [Preprints](#)
+🤖 [Website](http://YSocialTwin.github.io)  🖥️ [YServer](https://github.com/YSocialTwin/YServer) 
+ 
+ | 💻 [YClient](https://github.com/YSocialTwin/YClient) | 📙 [Recipes](https://github.com/YSocialTwin/Scenario_recipes) | 📕 [Preprints](#)
  
