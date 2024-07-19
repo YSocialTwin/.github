@@ -37,7 +37,7 @@ Join us to explore, innovate, and revolutionize social media understanding.
     
 **Scenarios**
 
-[Recipes](https://github.com/YSocialTwin/Scenario_recipes)
+📙 [Recipes](https://github.com/YSocialTwin/Scenario_recipes)
     
 </td><td valign="top">
 <img width="250" height="1" />
