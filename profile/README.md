@@ -30,7 +30,7 @@ Join us to explore, innovate, and revolutionize social media understanding.
 
 <table>
 <tr>
- <td><img src="./us/giulio_rossetti.png"></td>
+ <td> ![](/us/giulio_rossetti.png) </td>
  <td><img src="./us/massimo_stella.png"></td>
  <td><img src="./us/remy_cazabet.png"></td>
  <td><img src="./us/katherine_abramski.png"></td>
